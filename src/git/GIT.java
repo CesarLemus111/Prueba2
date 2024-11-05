@@ -22,7 +22,7 @@ public class GIT {
                 System.out.println("Probando" );
                 
                  System.out.println("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" );
-                System.out.println("Hola a todos, ya es hora de comer");
+                System.out.println("Hola a todos, ya hay que comer");
                  
                  
                  
